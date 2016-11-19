@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Boiplerplate with Bootstrap 4, browserify, sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menian/Boilerplate.git"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menian/Boilerplate/issues"
+  },
+  "homepage": "https://github.com/menian/Boilerplate#readme",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.5",
+    "browser-sync": "^2.18.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
